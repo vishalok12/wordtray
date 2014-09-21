@@ -1,0 +1,3 @@
+[submodule "vocabapp"]
+	path = vocabapp
+	url = git@github.com:vishalok12/vocabapp.git
